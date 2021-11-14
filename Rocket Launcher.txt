@@ -2,3 +2,4 @@ Welocome to Rocket Launcher\
 
 * BGM
 * Music
+* Camera
